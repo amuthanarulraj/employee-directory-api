@@ -18,7 +18,7 @@ before_script:
   - echo "Begin gradle tasks"
 
 script:
-  - echo "Building"
+  - ./gradlew test
 
 after_script:
   - echo "Build done"

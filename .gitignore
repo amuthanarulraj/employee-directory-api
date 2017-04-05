@@ -1,13 +1,3 @@
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-
-
-*.class
 
 .settings/
 .project
@@ -15,8 +5,3 @@
 build/
 .DS_Store
 test-output/
-
-# Package Files #
-*.jar
-*.war
-*.ear
