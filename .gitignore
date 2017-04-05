@@ -23,8 +23,6 @@ nbdist/
 *.class
 
 .settings/
-.gradle/
-gradle/
 .project
 .classpath
 bin/
